@@ -80,7 +80,6 @@ a:hover {
   margin-top: 50px;
   margin-bottom: 80px;
   display: flex;
-  justify-content: flex-end;
   padding: 12px 0;
   border-width: 3px;
   border-style: solid none;
@@ -139,9 +138,6 @@ a:hover {
 .post-content p {
   hyphens: auto;
   line-height: 1.6;
-  text-align: justify;
-  text-justify: ideographic;
-  word-break: break-all;
   margin-bottom: 1em;
 }
 
